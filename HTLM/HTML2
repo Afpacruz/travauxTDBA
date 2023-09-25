@@ -1,0 +1,10 @@
+<!DOCTYPE>
+<html lang="fr">
+    <head>
+        <h1>Voici le titre</h1>
+    </head>
+    <body>
+        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero natus, praesentium dignissimos nesciunt!</p>
+        <img src="imagehtml">
+    </body>
+</html>
